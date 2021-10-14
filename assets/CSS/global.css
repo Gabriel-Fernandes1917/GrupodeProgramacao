@@ -54,6 +54,22 @@ main{
     margin-bottom: 2px;
 }
 
+.code{
+    background-color: white;
+    padding: 5% 5% 5% 5%;
+    max-width: 30%;
+}
+
+.example{
+    background-color: white;
+    padding: 5% 5% 5% 5%;
+    max-width: 30%;
+}
+
+/*.example > div > p{
+    
+    
+}*/
 
 /*footer*/
 
