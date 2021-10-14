@@ -1,6 +1,7 @@
 *{
     margin: 0;
     text-decoration: none;
+    box-sizing: border-box;
 }
 
 li {
@@ -29,23 +30,37 @@ header{
 
 .options > nav > ul :hover {
     background-color: whitesmoke;
-    
+    border-radius: 7px;
 }
 
 /* End header*/
+
+/*Main*/
 
 main{
     background-color: whitesmoke;
     max-width: 70%;
     margin-left: auto;
     margin-right: auto;
+    padding: 1%;
 }
 
+.TITLE{
+    text-align: center;
+}
+
+.word{
+    font-size: 20px;
+    margin-bottom: 2px;
+}
+
+
+/*footer*/
 
 footer{
     position: absolute;
     bottom: 0;
     padding: 10px;
-    width: 96%;
+    width: 100%;
     background-color: grey;
 }
