@@ -33,7 +33,7 @@
 }
 
 .padding-right{
-    padding-right: 100px;
+    padding-right: 200px;
     background-color: green;
 }
 
@@ -49,5 +49,15 @@
 
 .padding-xyzw{
     padding: 100px 100px 100px 100px;
+    background-color: green;
+}
+
+.width{
+    width: 70px;
+    background-color: green;
+}
+
+.height{
+    height:70px;
     background-color: green;
 }
