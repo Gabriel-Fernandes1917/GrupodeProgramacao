@@ -1,0 +1,53 @@
+/* CSS the examples */
+
+.margin-left > p{
+    margin-left: 100px;
+    background-color: green;
+}
+
+.margin-right{
+    margin-right: 100px;
+    background-color: green;
+}
+
+.margin-top{
+    margin-top: 100px;
+    background-color: green;
+}
+
+.margin-bottom{
+    margin-bottom: 100px;
+    background-color: green;
+}
+
+.margin-xyzw{
+    margin: 100px 100px 100px 100px;
+    background-color: green;
+}
+
+/* Padding */
+
+.padding-left {
+    padding-left: 100px;
+    background-color: green;
+}
+
+.padding-right{
+    padding-right: 100px;
+    background-color: green;
+}
+
+.padding-top{
+    padding-top: 100px;
+    background-color: green;
+}
+
+.padding-bottom{
+    padding-bottom: 100px;
+    background-color: green;
+}
+
+.padding-xyzw{
+    padding: 100px 100px 100px 100px;
+    background-color: green;
+}
